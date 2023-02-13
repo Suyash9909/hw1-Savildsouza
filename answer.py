@@ -10,11 +10,11 @@ def number():
        """
     # Write the value 4 to the power of 5 and assign it to variable x.
 
-    a =pow(4,5)
-    x=a
+    x=4**5
+
     # Write the value x divided by 3 and assign it to variable y.
-    b =x/3
-    y=b
+    y =x/3
+
     return x,y
 
 def strings():
