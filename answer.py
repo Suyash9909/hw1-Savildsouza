@@ -9,9 +9,12 @@ def number():
        This is to review numbers and basic operations.
        """
     # Write the value 4 to the power of 5 and assign it to variable x.
-    x =pow(4,5)
+
+    a =pow(4,5)
+    x=a
     # Write the value x divided by 3 and assign it to variable y.
-    y =x/3
+    b =x/3
+    y=b
     return x,y
 
 def strings():
