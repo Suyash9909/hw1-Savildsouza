@@ -36,11 +36,11 @@ def strings():
 
     # Concatenate variable stevens with string " is great" and assign it to variable great.
 
-    great = stevens + " is great "
+    great = stevens + " is great"
 
     # Replace "great" with "good" in variable great and assign it to a new variable good.
 
-    good =great.replace("great", " good ")
+    good =great.replace("great","  good")
 
     return stevens, stevens_7, length, great, good
 
